@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anu Sapkota
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning pandas
 - 📫 How to reach me anuu.sapkota10@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a huge Swiftie.
