@@ -1,9 +1,9 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="/cover.png"  />
-</div>
+</div> -->
 
 ###
 
