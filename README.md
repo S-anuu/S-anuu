@@ -51,7 +51,7 @@
 ###
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=S-anuu&theme=dark)](https://git.io/streak-stats)
 [![Anu's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-anuu&show=prs_merged_percentage&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
