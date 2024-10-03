@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm a Software Enginnering Undergraduate<br><br>- 🎓 Studying at Pokhara University<br>- 📖 Currently learning about AI and ML<br>-  📫 How to reach me: anuu.sapkota10@gmail.com</p>
+<p align="left">👩🏻‍💻 I'm a Software Enginnering Undergraduate<br><br>- 🎓 Studying at Pokhara University<br>- 📖 Currently learning about AI and ML<br>-  📫 How to reach me: www.linkedin.com/in/anu-sapkota</p>
 
 ###
 
