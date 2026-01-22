@@ -14,7 +14,7 @@
 
 <h3 align="left">About Me</h3>
 
-<p align="left">👩🏻‍💻 I'm a Software Engineering Undergraduate<br><br>- 🎓 Studying at Pokhara University<br>- 📖 Currently learning about AI and ML<br>- 📫 How to reach me: <a href="www.linkedin.com/in/anu-sapkota">LinkedIn</a></p>
+<p align="left">👩🏻‍💻 I'm a Software Engineer<br><br>- 🎓 Studied at Pokhara University<br>- 📖 Currently working as an ML Engineer<br>- 📫 How to reach me: <a href="www.linkedin.com/in/anu-sapkota">LinkedIn</a></p>
 
 <hr>
 
